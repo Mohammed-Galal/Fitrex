@@ -1,2 +1,0 @@
-# Fitrex
-Gym web App
